@@ -35,6 +35,6 @@ Promise.all([
 	initWidget({
 		waifuPath: tips_path + "waifu-tips.min.json",
 		apiPath: "https://api.amogu.cn/api/live2d/",
-		cdnPath: "https://cdn.jsdelivr.net/gh/Fog-Forest/cdn@2.1.5.5/Sakura/live2d/api/"
+		cdnPath: "https://cdn.jsdelivr.net/gh/caiweill/live2d-widget@latest/api/"
 	});
 });
